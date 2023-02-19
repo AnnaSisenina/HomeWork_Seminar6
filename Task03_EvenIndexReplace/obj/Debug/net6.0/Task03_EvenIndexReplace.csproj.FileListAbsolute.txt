@@ -1,0 +1,15 @@
+C:\Users\Мах\Documents\gb\c#\HomeWork_Seminar6\Task03_EvenIndexReplace\obj\Debug\net6.0\Task03_EvenIndexReplace.csproj.AssemblyReference.cache
+C:\Users\Мах\Documents\gb\c#\HomeWork_Seminar6\Task03_EvenIndexReplace\obj\Debug\net6.0\Task03_EvenIndexReplace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мах\Documents\gb\c#\HomeWork_Seminar6\Task03_EvenIndexReplace\obj\Debug\net6.0\Task03_EvenIndexReplace.AssemblyInfoInputs.cache
+C:\Users\Мах\Documents\gb\c#\HomeWork_Seminar6\Task03_EvenIndexReplace\obj\Debug\net6.0\Task03_EvenIndexReplace.AssemblyInfo.cs
+C:\Users\Мах\Documents\gb\c#\HomeWork_Seminar6\Task03_EvenIndexReplace\obj\Debug\net6.0\Task03_EvenIndexReplace.csproj.CoreCompileInputs.cache
+C:\Users\Мах\Documents\gb\c#\HomeWork_Seminar6\Task03_EvenIndexReplace\bin\Debug\net6.0\Task03_EvenIndexReplace.exe
+C:\Users\Мах\Documents\gb\c#\HomeWork_Seminar6\Task03_EvenIndexReplace\bin\Debug\net6.0\Task03_EvenIndexReplace.deps.json
+C:\Users\Мах\Documents\gb\c#\HomeWork_Seminar6\Task03_EvenIndexReplace\bin\Debug\net6.0\Task03_EvenIndexReplace.runtimeconfig.json
+C:\Users\Мах\Documents\gb\c#\HomeWork_Seminar6\Task03_EvenIndexReplace\bin\Debug\net6.0\Task03_EvenIndexReplace.dll
+C:\Users\Мах\Documents\gb\c#\HomeWork_Seminar6\Task03_EvenIndexReplace\bin\Debug\net6.0\Task03_EvenIndexReplace.pdb
+C:\Users\Мах\Documents\gb\c#\HomeWork_Seminar6\Task03_EvenIndexReplace\obj\Debug\net6.0\Task03_EvenIndexReplace.dll
+C:\Users\Мах\Documents\gb\c#\HomeWork_Seminar6\Task03_EvenIndexReplace\obj\Debug\net6.0\refint\Task03_EvenIndexReplace.dll
+C:\Users\Мах\Documents\gb\c#\HomeWork_Seminar6\Task03_EvenIndexReplace\obj\Debug\net6.0\Task03_EvenIndexReplace.pdb
+C:\Users\Мах\Documents\gb\c#\HomeWork_Seminar6\Task03_EvenIndexReplace\obj\Debug\net6.0\Task03_EvenIndexReplace.genruntimeconfig.cache
+C:\Users\Мах\Documents\gb\c#\HomeWork_Seminar6\Task03_EvenIndexReplace\obj\Debug\net6.0\ref\Task03_EvenIndexReplace.dll
